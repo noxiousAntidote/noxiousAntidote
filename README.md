@@ -24,4 +24,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bo3j5lynqxs8pr2u2s848d650&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=547f06&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![](https://komarev.com/ghpvc/?username=noxiousAntidote&style=plastic&abbreviated=true&color=567f0c)
+![](https://komarev.com/ghpvc/?username=noxiousAntidote&style=plastic&abbreviated=true&color=567f0c&label=[visit o  r   s    .])
